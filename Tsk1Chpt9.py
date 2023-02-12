@@ -144,3 +144,4 @@ titanic.describe()
 
 %matplotlib
 histogram = titanic.hist()
+histogram
