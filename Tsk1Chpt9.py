@@ -130,6 +130,9 @@ pd.set_option('display.precision', 2) #'precision' outputs error
 titanic.head()
 titanic.tail()
 
+titanic.columns =['names', 'survived', 'sex', 'age', 'class']
+titanic.head
+
 #9.12.4 Simple Data ANalysis with the Titatic Disaster Dataset
 
 titanic.describe()
