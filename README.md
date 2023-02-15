@@ -1,4 +1,8 @@
 # datafun-05-data-at-rest
+Jakiel David
+2-14-2023
+Happy Valentines Day
+
 Project 5: Files, Exceptions, and SQL
 
 Task 1
